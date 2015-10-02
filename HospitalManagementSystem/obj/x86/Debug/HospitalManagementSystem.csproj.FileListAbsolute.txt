@@ -1,0 +1,45 @@
+c:\users\user\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+c:\users\user\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.pdb
+c:\users\user\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.InitialForm.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.MainUI.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\patientFormBase.pdb
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\patientFormBase.dll
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.exe
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatientMedicalinfoUI.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatientDiagnosisUI.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientPersonalInfo.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientDiagnosisUI.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientSchedulingUI.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatientPersonalInfoUI.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatienWizard.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientWizard.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.doctorWizard.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.departmentWizard.resources
+C:\Users\User\documents\visual studio 2010\Projects\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.roomWizard.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.exe
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.pdb
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\patientFormBase.pdb
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.departmentWizard.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.doctorWizard.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.InitialForm.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatientDiagnosisUI.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatientMedicalInfoUI.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatienWizard.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientDiagnosisUI.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientPersonalInfo.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientSchedulingUI.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.outpatientWizard.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.inpatientPersonalInfoUI.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.MainUI.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Properties.Resources.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.roomWizard.resources
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mithun\Desktop\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
